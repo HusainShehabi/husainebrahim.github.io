@@ -22,7 +22,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             I am an ICT Graduate from Bahrain Polytechnic, looking to further develop my skills, gain professional work experience, and get the opportunity to be an asset. I am a driven individual with the ability to adapt to any situation and willing to learn and grow my skillset.
             
-            I am currently learning the MEAN Stack (Mongo DB, Express, Angular.js, Node.js) for web development and Flutter for mobile development. `;
+            I am currently learning the MEAN Stack (Mongo DB, Express, Angular.js, Node.js) for web development and Flutter for mobile development.`;
   var speed = 25;
 
   function typeItOut () {
